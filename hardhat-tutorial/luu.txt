@@ -1,1 +1,1 @@
-Whitelist Contract Address: 0xBd45071B94EaFa0bF4f9992441B570591edbeCfe
+Whitelist Contract Address: 0x3bCeB2Acb6A7aff69eC6D17596D997763C005a06
